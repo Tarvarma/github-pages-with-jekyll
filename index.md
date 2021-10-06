@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Espero que esta pagina se vea. Por ahora no sé que poner, pero supongo que la siguiente actividad se me ocurríra algo.
